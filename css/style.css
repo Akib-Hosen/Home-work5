@@ -1,0 +1,51 @@
+.header{
+	text-align: center;
+	font-family: monospace;
+	font-size: 35px;
+	font-weight: bold;
+}
+.container{
+	height: 100px;
+	background-color: rgb(231, 13, 13);
+}
+.wrapper{
+	overflow: hidden;
+	border: 5px solid purple;
+}
+.green{
+	float: left;
+	width: 50%;
+	height: 150px;
+	background-color: limegreen;
+}
+.blue{
+	float: right;
+	width: 50%;
+	height: 150px;
+	background-color: blue;
+}
+.box{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+}
+.gray{	
+	background-color: dimgray;
+}
+.brown{
+	background-color: sandybrown;
+}
+.yellow{
+	background-color: yellow;
+}
+.footer{
+	height: 100px;
+	background-color: black;
+}
+.foot{
+	text-align: center;
+	font-family: monospace;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
